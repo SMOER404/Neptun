@@ -1,0 +1,276 @@
+.nav1 {
+  background: #efefef;
+  margin-bottom: 1em;
+  padding: 0;
+}
+
+.nav1 {
+  width: 100%;
+  font-size: 1em;
+  color: rgb(107, 115, 122);
+}
+
+.nav1 li a {
+  color: rgb(107, 115, 122);
+  margin-right: 4em;
+}
+
+.nav img {
+  padding-right: 5px;
+}
+
+.nav2 {
+  height: 100px;
+  background: #ffff;
+}
+
+.navbar-ul {
+  width: 100%;
+}
+
+.navbar-ul li {
+  padding-left: 2.5em;
+    font-size: 13px;
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(107, 115, 122);
+    line-height: 1.2;
+    text-align: left;
+    -moz-transform: matrix( 1, 0, 0, 1.00000022706536, 0, 0);
+    -webkit-transform: matrix( 1, 0, 0, 1.00000022706536, 0, 0);
+    -ms-transform: matrix( 1, 0, 0, 1.00000022706536, 0, 0);
+}
+
+.header2 {
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.buybtn {
+  /* margin-top: 20px; */
+  height: 40px;
+  background: #0066cc;
+  color: #ffff;
+  width: 140px;
+  border-radius: 0;
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 1.2;
+}
+
+.numberline {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.head-img {
+  margin-left: 0px;
+}
+
+.navbar2 {
+  background: #003366;
+  text-align: justify;
+}
+
+.navbar2 a {
+  color: #ffff;
+}
+
+.navbar2 li a {
+  display: block;
+  color: #ffff;
+  font-size: 14px;
+  margin-left: 2em;
+}
+
+.navbar-toggle {
+  background: none;
+}
+
+.navbar-toggle-2 {
+  background: #efefef;
+}
+
+#addres {
+  font-size: 14px;
+  color: rgb(60, 60, 59);
+  line-height: 1.2;
+  font-weight: 400;
+}
+
+body>div.container-fluid>div>section>div {
+  padding: 0;
+}
+
+body>nav.navbar.navbar2 {
+  padding: 0;
+}
+
+body>nav.navbar.navbar2 {}
+
+body>div.container-fluid>div>section {
+  padding: 0;
+}
+
+body>nav.navbar.navbar2 {
+  margin: 0;
+}
+
+body>div.header2>div>div>div:nth-child(2),
+body>div.header2>div>div>div:nth-child(3) {
+  height: ;
+}
+
+body>div.header2>div>div>div:nth-child(2) {
+  padding: 0;
+}
+
+.navbar-toggle {
+  background: none;
+}
+
+/* LINK DROPDOWN MENU */
+
+body>nav.navbar.navbar2>div>div.navbar-collapse.navbar-ex2-collapse.collapse.in>ul>li.dropdown>ul>li a {
+  color: #ffff;
+}
+
+/* COLOR ACTIVE  */
+
+.nav>li>a:focus,
+.nav>li>a:hover {
+  background: none;
+}
+
+/* SLIDER */
+
+.carousel-inner {
+  border-radius: 15px;
+}
+
+.carousel-caption {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 10;
+  padding: 0 0 10px 25px;
+  color: #fff;
+  text-align: left;
+}
+
+.carousel-indicators {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  width: 100%;
+  z-index: 15;
+  margin: 0;
+  /* padding: 0 25px 25px 0; */
+  text-align: right;
+}
+
+.carousel-control.left,
+.carousel-control.right {
+  background-image: none;
+}
+
+/* ------------------- Section Styling - Not needed for carousel styling ------------------- */
+
+.section-white {
+  padding: 10px 0;
+}
+
+.section-white {
+  background-color: #fff;
+  color: #555;
+}
+
+/* CARD LIST */
+
+.cardlist img {
+  /* padding-left: 70px; */
+  /* padding-bottom: 20px; */
+}
+
+.cardlist p {
+  /* max-width: 80%; */
+}
+
+.card {
+  /* height: 250px; */
+}
+
+body>div.container>div:nth-child(1)>h1 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 100px;
+}
+
+body>nav>div>div.navbar-header>div>div {
+  padding: 0;
+}
+
+.vk-icon {
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+
+
+body>nav.navbar.navbar2>div>div>div>div:nth-child(1)>button>span {
+  background-color: #fff;
+}
+
+
+body>nav.navbar.navbar2>div>div>div{
+  padding: 0;
+}
+body>nav.navbar.navbar2>div>div>div>div:nth-child(2)>a {
+  margin-left: 60px;
+  font-weight: 500;
+}
+
+body>nav.navbar.navbar2>div>div>div>div:nth-child(2) {
+  background: #0066cc;
+}
+
+body>nav.navbar.navbar2>div>div>div.navbar-collapse.navbar-ex2-collapse.collapse.in {
+ 
+}
+
+
+.halls {
+  height: 600px;
+  background: #efefef;
+}
+
+.h2halls {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: #666666;
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+
+.h4halls {
+  position: absolute;
+  /* bottom: 5px; */
+  width: 90%;
+  /* left: 0px; */
+  background: rgba(0, 0, 0, 0.7);
+  bottom: 0px;
+  padding: 5px;
+}
+
+.h4halls span {
+  	color: white;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;  
+    font-size: 16px;
+  	letter-spacing: -1px;
+  	
+  	padding: 10px;
+  }
